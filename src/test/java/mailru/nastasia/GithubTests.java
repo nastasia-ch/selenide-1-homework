@@ -26,4 +26,5 @@ public class GithubTests {
         $("#wiki-body").shouldHave(text("Using JUnit5 extend test class:"));
 
     }
+
 }
